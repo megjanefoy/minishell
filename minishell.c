@@ -9,10 +9,6 @@
  * Title: Lab 5
  * Semester: COP4338 - Spring 2021
  * Author Megan Jane Thompson
- * Panther ID: 3276301
- *
- * I affirm that the revisions of this program is entirely
- * my own work and none of it is the work of any other person.
  *
  * This program creates two children. One child processes ls -al
  * and pipes that output as input to another child that processes
